@@ -15,9 +15,8 @@ Defualt: 1
 --- 02 Colors
 
 - Primary: #e67e22
-
-- Tints:
-- Shades:
+- Tints:#fdf2e9
+- Shades: #cf711f
 - Accents:
 - Greys
 #555
