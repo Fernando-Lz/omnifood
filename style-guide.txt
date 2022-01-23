@@ -10,9 +10,14 @@ Semi-bold: 600
 Bold: 700
 
 - Line heights
-Defualt: 1
+Default: 1
 Small: 1.05
+Medium: 1.2
 Paragraph default: 1.6
+
+- Letter spacing
+0.5px
+0.75px
 
 - Spacing system (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
